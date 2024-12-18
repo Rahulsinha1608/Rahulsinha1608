@@ -1,4 +1,4 @@
-[![MasterHead](https://openobserve.ai/img/blog/Jaeger_blog/1-home.gif)]
+![MasterHead](https://openobserve.ai/img/blog/Jaeger_blog/1-home.gif)
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate programmer from India</h3>
